@@ -1,0 +1,6 @@
+{
+  "name": "PPRIM-Explorer: Khai Thác Tập Hiếm Bảo Toàn Riêng Tư",
+  "description": "Ứng dụng web PPRIM-Explorer hỗ trợ tải dữ liệu giao dịch, khai thác tập hiếm, lựa chọn tập nhạy cảm và áp dụng các thuật toán ẩn dữ liệu bảo toàn quyền riêng tư.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
